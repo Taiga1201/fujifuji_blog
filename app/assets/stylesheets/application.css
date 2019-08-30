@@ -1,0 +1,27 @@
+.nav-wrapper {
+  background: linear-gradient(#05FBFF, #1E00FF);
+  text-align: center;
+}
+
+.pagination {
+  background : linear-gradient(to right,
+  red,
+  orange,
+  yellow,
+  green,
+  aqua,
+  blue,
+  purple);
+  text-align: center;
+  color: black;
+}
+
+.brand-logo {
+  font-family: impact;
+}
+
+h1, h2 {
+  font-family: impact;
+  color: black;
+}
+
